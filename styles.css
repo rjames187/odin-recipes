@@ -1,0 +1,17 @@
+h1 {
+    font-weight: bold;
+    background-color: lightpink;
+    font-family: Helvetica;
+}
+
+h2 {
+    background-color: lightcyan;
+}
+
+ul {
+    background-color: lightskyblue;
+}
+
+li {
+    background-color: lightgreen;
+}
